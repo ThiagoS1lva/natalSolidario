@@ -29,7 +29,7 @@ export default {
   data() {
     return {
       images: [
-      { src: "/Maria Alice.jpg", alt: "Maria Alice", text: "Maria Alice - Maquiagem, boneca reborn!" },
+      { src: "/Maria Alice.jpg", alt: "Maria Alice", text: "Maria Alice - Maquiagem, boneca reborn ou caderno de desenho com canetinha e lapis de cor!" },
       { src: "/Jhonatan.jpg", alt: "Jhonatan", text: "Jhonatan - Brinquedinho de fazenda (boi, cavalo, etc...)!" },
       { src: "/Yasmin.jpg", alt: "Yasmin", text: "Yasmin - Um Brinquedo para bebê!" },
       { src: "/Anna Vallentyna.jpg", alt: "Anna Vallentyna", text: "Anna Vallentyna - Uma Boneca!" },
