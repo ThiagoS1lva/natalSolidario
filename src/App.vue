@@ -47,7 +47,7 @@ export default {
         { src: "/Pietro.jpg", alt: "Pietro", text: "Pietro - Um boneco do homem aranha!" },
         { src: "/Julia.jpg", alt: "Julia", text: "Julia - Roupa 38, short ou blusa!" },
         { src: "/Giovanna.jpg", alt: "Giovanna", text: "Giovanna - Papete com brilho 37/38 ou roupa 14 anos!" },
-        { src: "/Maria Tereza.jpg", alt: "Maria Tereza", text: "Maria Tereza - Eu gostaria de ganhar um conjunto de cordão e pulseira!" },
+        { src: "/Maria Tereza.png", alt: "Maria Tereza", text: "Maria Tereza - (Apadrinhada)!" },
         { src: "/Raquelly.jpg", alt: "Raquelly", text: "Raquelly - Conjunto Lilo & Stitch!" },
         { src: "/Rodolfo.jpg", alt: "Rodolfo", text: "Rodolfo - Uma roupa da Nike!" },
         { src: "/Rafael.jpg", alt: "Rafael", text: "Rafael - Uma bola!" },
