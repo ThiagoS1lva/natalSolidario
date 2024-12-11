@@ -30,11 +30,11 @@ export default {
     return {
       images: [
       { src: "/Maria Alice.jpg", alt: "Maria Alice", text: "Maria Alice - Maquiagem, boneca reborn ou caderno de desenho com canetinha e lapis de cor!" },
-      { src: "/Jhonatan.jpg", alt: "Jhonatan", text: "Jhonatan - Brinquedinho de fazenda (boi, cavalo, etc...)!" },
+      { src: "/Jhonatan.jpg", alt: "Jhonatan", text: "Jhonatan - (Apadrinhado)" },
       { src: "/Yasmin.jpg", alt: "Yasmin", text: "Yasmin - Um Brinquedo para bebê!" },
-      { src: "/Anna Vallentyna.jpg", alt: "Anna Vallentyna", text: "Anna Vallentyna - Uma Boneca!" },
+      { src: "/Anna Vallentyna.png", alt: "Anna Vallentyna", text: "Anna Vallentyna - (Apadrinhada)" },
       { src: "/b1.jpg", alt: "b1", text: "Umas roupinhas ou um brinquedo!" },
-      { src: "/Mellynda.jpg", alt: "Mellynda", text: "Mellynda - Um brinquedo da galinha pintadinha!" },
+      { src: "/Mellynda.png", alt: "Mellynda", text: "Mellynda - (Apadrinhada)" },
       { src: "/Ravi.jpg", alt: "Ravi", text: "Ravi - Brinquedos de animais de fazenda!" },
       { src: "/Hevellyn.jpg", alt: "Hevellyn", text: "Hevellyn - Maquiagem!" },
       { src: "/Sophya.jpg", alt: "Sophya", text: "Sophya - Boneca!" },
